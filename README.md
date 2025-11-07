@@ -252,3 +252,5 @@ This loop forms the core of the energy meter interface:
 <li>By continuously extracting, displaying, and saving data, it allows for real-time energy monitoring and later analysis through the CSV file.</li>
 
 </ul>
+
+# Thanks
